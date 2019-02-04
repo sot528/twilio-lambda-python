@@ -1,0 +1,1 @@
+- [Ethereumで特定のアドレスから特定のERC20トークンが送信されたらガンガン電話をかける](https://qiita.com/sot528/items/023cfb36678f7c7c8bab)
